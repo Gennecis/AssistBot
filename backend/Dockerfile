@@ -1,7 +1,7 @@
 FROM python:3.11 as build
 
 WORKDIR /app
-
+ARG NEXT_PUBLIC_CHAT_API
 ENV PYTHONPATH=/app
 
 # Install Poetry

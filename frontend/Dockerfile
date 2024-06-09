@@ -14,3 +14,4 @@ RUN npm run build
 FROM build as release
 
 CMD ["npm", "run", "start"]
+CMD ["npx", "-y", "serve@latest", "out"]
