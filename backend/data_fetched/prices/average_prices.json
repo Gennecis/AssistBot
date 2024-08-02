@@ -1,0 +1,47 @@
+[
+    {
+        "section_title": "Most Expensive Houses for Sale",
+        "properties": [
+            {"Rank": 1, "State": "Abuja", "Average_Price": 227950000},
+            {"Rank": 2, "State": "Lagos", "Average_Price": 198540000},
+            {"Rank": 3, "State": "Anambra", "Average_Price": 123130000},
+            {"Rank": 4, "State": "Imo", "Average_Price": 107600000},
+            {"Rank": 5, "State": "Enugu", "Average_Price": 103600000},
+            {"Rank": 6, "State": "Delta", "Average_Price": 93850000},
+            {"Rank": 7, "State": "Rivers", "Average_Price": 93510000}
+        ]
+    },
+    {
+        "section_title": "Most Expensive Flats for Sale",
+        "properties": [
+            {"Rank": 1, "State": "Lagos", "Average_Price": 135920000},
+            {"Rank": 2, "State": "Abuja", "Average_Price": 86010000},
+            {"Rank": 3, "State": "Rivers", "Average_Price": 66880000},
+            {"Rank": 4, "State": "Ogun", "Average_Price": 40320000},
+            {"Rank": 5, "State": "Oyo", "Average_Price": 29860000}
+        ]
+    },
+    {
+        "section_title": "Most Expensive Houses for Rent",
+        "properties": [
+            {"Rank": 1, "State": "Abuja", "Average_Price": 10600000},
+            {"Rank": 2, "State": "Lagos", "Average_Price": 8390000},
+            {"Rank": 3, "State": "Rivers", "Average_Price": 4320000},
+            {"Rank": 4, "State": "Oyo", "Average_Price": 3080000},
+            {"Rank": 5, "State": "Ogun", "Average_Price": 2140000},
+            {"Rank": 6, "State": "Akwa Ibom", "Average_Price": 1730000}
+        ]
+    },
+    {
+        "section_title": "Most Expensive Flats for Rent",
+        "properties": [
+            {"Rank": 1, "State": "Lagos", "Average_Price": 4600000},
+            {"Rank": 2, "State": "Abuja", "Average_Price": 3840000},
+            {"Rank": 3, "State": "Delta", "Average_Price": 2280000},
+            {"Rank": 4, "State": "Rivers", "Average_Price": 1460000},
+            {"Rank": 5, "State": "Oyo", "Average_Price": 950000},
+            {"Rank": 6, "State": "Imo", "Average_Price": 900000},
+            {"Rank": 7, "State": "Ogun", "Average_Price": 630000}
+        ]
+    }
+]
